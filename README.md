@@ -22,7 +22,7 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nachammai3/)  
-[![Email](https://img.shields.io/badge/Gmail-nachammai3@gmail.com-red?logo=gmail&logoColor=white)](mailto:nachammai3@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-nachammai567@gmail.com-red?logo=gmail&logoColor=white)](mailto:nachammai3@gmail.com)
 
 ---
 
